@@ -1,0 +1,6 @@
+﻿  Suprascrierea operatorilor.cpp
+C:\Users\Student\Desktop\Trofor Stefan\Suprascrierea operatorilor\Suprascrierea operatorilor\Suprascrierea operatorilor.cpp(16,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/Suprascrierea%20operatorilor.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Suprascrierea operatorilor.vcxproj -> C:\Users\Student\Desktop\Trofor Stefan\Suprascrierea operatorilor\x64\Debug\Suprascrierea operatorilor.exe

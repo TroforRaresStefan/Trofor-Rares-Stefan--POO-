@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Suprascrierea operatorilor", "Suprascrierea operatorilor\Suprascrierea operatorilor.vcxproj", "{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Debug|x64.ActiveCfg = Debug|x64
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Debug|x64.Build.0 = Debug|x64
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Debug|x86.Build.0 = Debug|Win32
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Release|x64.ActiveCfg = Release|x64
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Release|x64.Build.0 = Release|x64
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Release|x86.ActiveCfg = Release|Win32
+		{6BBE2166-0637-4D84-9A26-05F00B9FC5A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFF9016-1250-477C-BD20-8B79F0F88210}
+	EndGlobalSection
+EndGlobal
